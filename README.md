@@ -1,5 +1,8 @@
-# StudyQuest
-### *Transforming Education into an Epic Gaming Adventure*
+<div align="center">
+  <img src="screenshots/logo.png" alt="StudyQuest Logo" width="200" height="auto">
+  <h1>StudyQuest</h1>
+  <h3><em>Transforming Education into an Epic Gaming Adventure</em></h3>
+</div>
 
 ![StudyQuest Logo](https://img.shields.io/badge/StudyQuest-v1.0-blue?style=for-the-badge&logo=rocket)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js)
@@ -209,15 +212,72 @@ npm run dev
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-> *Coming Soon: Interactive demos and screenshots showcasing the complete StudyQuest experience*
+<div align="center">
 
-- Student Dashboard with gamified elements
-- Interactive level progression map
-- Achievement and badge collection
-- AI-generated learning content
-- Teacher course management interface
+### 🎮 Experience StudyQuest in Action
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.09.27 PM.png" alt="Home Page" width="400">
+<br><b>🏠 Home Page</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.09.35 PM.png" alt="Role Selection" width="400">
+<br><b>🎭 Role Selection</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.09.44 PM.png" alt="Student Login" width="400">
+<br><b>🎓 Student Login</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.10.18 PM.png" alt="Student Dashboard" width="400">
+<br><b>📊 Student Dashboard</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.10.29 PM.png" alt="Level Map" width="400">
+<br><b>🗺️ Interactive Level Map</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.10.41 PM.png" alt="Weekly Content" width="400">
+<br><b>📚 Weekly Learning Content</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.10.49 PM.png" alt="Quiz Interface" width="400">
+<br><b>🧠 Interactive Quiz</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.12.49 PM.png" alt="Teacher Dashboard" width="400">
+<br><b>🍎 Teacher Dashboard</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.13.01 PM.png" alt="Course Creation" width="400">
+<br><b>⚡ AI Course Creation</b>
+</td>
+<td align="center" width="50%">
+<img src="screenshots/Screenshot 2025-09-25 at 1.13.11 PM.png" alt="Course Management" width="400">
+<br><b>📋 Course Management</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="screenshots/Screenshot 2025-09-25 at 1.25.30 PM.png" alt="Content Generation" width="400">
+<br><b>🤖 AI Content Generation</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
